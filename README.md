@@ -35,7 +35,7 @@ additional documents for details on
 <A HREF="https://us04web.zoom.us/security">Security Resources</A>.
 <P></P>
 
-H2>Current version - Download HTML (as ZIP file), as a PDF, or a Word .docx file</H2>
+<H2>Current version - Download <--HTML (as ZIP file),--!> as a PDF, or a Word .docx file</H2>
 <UL>
 <LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml.zip">
 <B>ITZhtml.zip</B></A>
