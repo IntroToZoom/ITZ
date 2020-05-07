@@ -1,6 +1,4 @@
 
-<TITLE>Introduction to Zoom Meetings</TITLE>
-
 
 <H1>Introduction to Zoom Meetings</H1>
 <P></P>
