@@ -45,10 +45,6 @@ H2>Current version - Download HTML (as ZIP file), as a PDF, or a Word .docx file
 <B>Introduction-to-Zoom-Meetings-V.18.2-5-6-2020.pdf</B></A>
 <P>
 
-<LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.18.2-5-6-2020.pdf">
-<B>Introduction-to-Zoom-Meetings-V.18.2-5-6-2020.pdf</B></A>
-<P>
-
 <LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.18.2-5-6-2020.docx">
 <B>Introduction-to-Zoom-Meetings-V.18.2-5-6-2020.docx</B></A>
 </UL>
