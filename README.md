@@ -1,4 +1,7 @@
 
+<TITLE>Introduction to Zoom Meetings</TITLE>
+
+
 <H1>Introduction to Zoom Meetings</H1>
 <P></P>
 
@@ -35,8 +38,11 @@ additional documents for details on
 <A HREF="https://us04web.zoom.us/security">Security Resources</A>.
 <P></P>
 
-<H2>Current version - Download as a PDF, or a Word .docx file</H2>
+<H2>Current version - Download HTML (as ZIP file), as a PDF, or a Word .docx file</H2>
 <UL>
+<LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.18.2-5-6-2020.zip">
+<B>ITZhtml-V.18.2-5-6-2020.zip</B></A>
+<P>
 
 <LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.18.2-5-6-2020.pdf">
 <B>Introduction-to-Zoom-Meetings-V.18.2-5-6-2020.pdf</B></A>
@@ -86,7 +92,7 @@ settings in Appendix B and Appendix C.
 
 <Address>
 <I>Revised: May 7, 2020</I><BR>
-Website: <A HREF="https://GitHub.com/IntroToZoom/ITZ/README.md">https://GitHub.com/IntroToZoom/ITZ/README.md</A>
+Website: <A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A>
 <P>
 <img src="icon-beerbuddies10.gif"></img>
 </Address>
