@@ -91,7 +91,7 @@ settings in Appendix B and Appendix C.
 <address>
 
 <Address>
-<I>Revised: May 7, 2020</I><BR>
+<I>Revised: May 8, 2020</I><BR>
 Website: <A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A><BR>
 Email: <Mailto:IntroToZoom@gmail.com><P>
 <img src="icon-beerbuddies10.gif"></img>
