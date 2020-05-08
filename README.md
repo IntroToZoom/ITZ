@@ -1,5 +1,4 @@
 
-
 <H1>Introduction to Zoom Meetings</H1>
 <P></P>
 
@@ -7,7 +6,7 @@
 <table>
 <tr>
 <td>
-<FONT SIZE=-1>
+<FONT SIZE=-1 >
 <b><I>Note: this document is a work in progress to help clarify some of the essentials on how to use Zoom.</I></b>
 <p></p>
 </FONT>
@@ -18,8 +17,7 @@
 This introductory <I>How To</I> document was created to help people navigate and use the <A HREF="Zoom.com">Zoom.com</A> virtual meeting software. It does not replace studying the extensive documentation on their website. 
 <P></P>
 
-The Zoom program lets one user, called the <B>Host</B>, start a meeting and invite other users called the <B>Participants</B> by sending them an email invitation or by directly inviting them through a Zoom contacts list. The person receiving the email clicks on a link to start downloading Zoom and join the 
-meeting. 
+The Zoom program lets one user, called the <B>Host</B>, start a meeting and invite other users called the <B>Participants</B> by sending them an email invitation or by directly inviting them through a Zoom contacts list. The person receiving the email clicks on a link to start downloading Zoom and join the meeting. Alternatively, if they have Zoom installed they can enter a Meeting ID also found in the email invitation to join a meeting..
 
 
 There is extensive documentation on the Zoom.com website under the
@@ -29,14 +27,17 @@ additional documents for details on
 <A HREF="https://us04web.zoom.us/download#client_4meeting">Downloads</A>, 
 <A HREF="https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials">Zoom Video Tutorials</A>, 
 <A HREF="https://us04web.zoom.us/livetraining">Live Training</A>,
-<A HREF="">Webinars and Events</A>,
+<A HREF="https://support.zoom.us/hc/en-us/articles/360042982391">Top 20 Zoom resources</A>,
+<A HREF="https://support.zoom.us/hc/en-us/categories/201146643">Webinars and Events</A>,
 <A HREF="https://us04web.zoom.us/events">Zoom Blog</A>,
+<A HREF="https://blog.zoom.us/wordpress/2020/04/27/its-here-5-things-to-know-about-zoom-5-0/">5 things about Zoom 5.0"</A>,
 <A HREF="https://support.zoom.us/hc/en-us/articles/206175806-Top-Questions?flash_digest=92a63c466c9f4bc8b1ed439f89835ce3893f3ba5">FAQ</A>,
 <A HREF="https://us04web.zoom.us/docs/ent/privacy-and-security.html">Privacy and Security</A>, and
 <A HREF="https://us04web.zoom.us/security">Security Resources</A>.
 <P></P>
 
-<H2>Current version - Download HTML (as ZIP file), as a PDF, or a Word .docx file</H2>
+<H2>Current version - Download HTML (as Zip file), as a PDF, or a Word .docx file</H2>
+The PDF and Web page were saved from the Word docx file.
 <UL>
 <LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.18.2-5-6-2020.zip">
 <B>ITZhtml-V.18.2-5-6-2020.zip</B></A>
@@ -90,8 +91,8 @@ settings in Appendix B and Appendix C.
 
 <Address>
 <I>Revised: May 7, 2020</I><BR>
-Website: <A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A>
-<P>
+Website: <A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A><BR>
+Email: <Mailto:IntroToZoom@gmail.com><P>
 <img src="icon-beerbuddies10.gif"></img>
 </Address>
 
