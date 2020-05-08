@@ -93,7 +93,7 @@ settings in Appendix B and Appendix C.
 <Address>
 <I>Revised: May 8, 2020</I><BR>
 Website: <A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A><BR>
-Email: <Mailto:IntroToZoom@gmail.com><P>
+Email: <A HREF="mailto:IntroToZoom@gmail.com">IntroToZoom@gmail.com</A><P>
 <img src="icon-beerbuddies10.gif"></img>
 </Address>
 
