@@ -38,6 +38,7 @@ additional documents for details on
 
 <H2>Current version - Download HTML (as Zip file), as a PDF, or a Word .docx file</H2>
 The PDF and Web page were saved from the Word docx file.
+<P>
 <UL>
 <LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.18.2-5-6-2020.zip">
 <B>ITZhtml-V.18.2-5-6-2020.zip</B></A>
