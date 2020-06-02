@@ -40,16 +40,16 @@ additional documents for details on
 The PDF and Web page were saved from the Word docx file.
 <P>
 <UL>
-<LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.19-5-14-2020.zip">
-<B>ITZhtml-V.19-5-14-2020.zip</B></A>
+<LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.19.1-6-2-2020.zip">
+<B>ITZhtml-V.19.1-6-2-2020.zip</B></A>
 <P>
 
-<LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.19-5-14-2020.pdf">
-<B>Introduction-to-Zoom-Meetings-V.19-5-14-2020.pdf</B></A>
+<LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.19.1-6-24-2020.pdf">
+<B>Introduction-to-Zoom-Meetings-V.19.1-6-2-2020.pdf</B></A>
 <P>
 
-<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.19-5-14-2020.docx">
-<B>Introduction-to-Zoom-Meetings-V.19-5-14-2020.docx</B></A>
+<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.19.1-6-2-2020.docx">
+<B>Introduction-to-Zoom-Meetings-V.19.1-6-2-2020.docx</B></A>
 </UL>
 
 In the document itself, the blue underlined hyperlinks link to 
@@ -59,6 +59,8 @@ particular documentation on the Zoom web site or on other Web sites.
 
 <H2>Revision History</H2>
 <UL>
+
+<LI>V.19.1 6/2/2020. Edited some of the screen shots and captions to reflect changes in the Zoom controls. Updated the Appendix C and D screen shots and captions that describe the Zoom client app and Zoom.com settings. These changed with the recent 5.0.4 version update of Zoom. Added some new articles on using Zoom in Appendix E.
 
 <LI>V.19 5/14/2020. Edited some of the screen shots and captions to reflect changes in the Zoom controls including "Manage Participants" is now "Participants", "Leave Meeting" is now "Leave". Added some new articles on using Zoom in Appendix E.
 
@@ -93,7 +95,7 @@ settings in Appendix B and Appendix C.
 <address>
 
 <Address>
-<I>Revised: May 14, 2020</I><BR>
+<I>Revised: June 2, 2020</I><BR>
 Website: <A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A><BR>
 Email: <A HREF="mailto:IntroToZoom@gmail.com">IntroToZoom@gmail.com</A><P>
 <img src="icon-beerbuddies10.gif"></img>
