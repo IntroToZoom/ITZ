@@ -44,7 +44,7 @@ The PDF and Web page were saved from the Word docx file.
 <B>ITZhtml-V.19.1-6-2-2020.zip</B></A>
 <P>
 
-<LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.19.1-6-24-2020.pdf">
+<LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.19.1-6-2-2020.pdf">
 <B>Introduction-to-Zoom-Meetings-V.19.1-6-2-2020.pdf</B></A>
 <P>
 
