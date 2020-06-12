@@ -22,8 +22,7 @@ The Zoom program lets one user, called the <B>Host</B>, start a meeting and invi
 
 There is extensive documentation on the Zoom.com website under the
 <A HREF="https://support.zoom.us/hc/en-us?flash_digest=f7974147c2b29a68a2eb7cab563d00c68b6325d7">
-Support</A> help page. The Zoom home page <B>Resources</B> pulldown menu has 
-additional documents for details on 
+Support</A> help page. The Zoom home page <B>Resources</B> pulldown menu has additional documents for details on 
 <A HREF="https://us04web.zoom.us/download#client_4meeting">Downloads</A>, 
 <A HREF="https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials">Zoom Video Tutorials</A>, 
 <A HREF="https://us04web.zoom.us/livetraining">Live Training</A>,
@@ -40,16 +39,16 @@ additional documents for details on
 The PDF and Web page were saved from the Word docx file.
 <P>
 <UL>
-<LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.20.1-6-12-2020.zip">
-<B>ITZhtml-V.20.1-6-12-2020.zip</B></A>
+<LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.20.2-6-12-2020.zip">
+<B>ITZhtml-V.20.2-6-12-2020.zip</B></A>
 <P>
 
-<LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.20.1-6-12-2020.pdf">
-<B>Introduction-to-Zoom-Meetings-V.20.1-6-12-2020.pdf</B></A>
+<LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.20.2-6-12-2020.pdf">
+<B>Introduction-to-Zoom-Meetings-V.20.2-6-12-2020.pdf</B></A>
 <P>
 
-<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.20.1-6-12-2020.docx">
-<B>Introduction-to-Zoom-Meetings-V.20.1-6-12-2020.docx</B></A>
+<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.20.2-6-12-2020.docx">
+<B>Introduction-to-Zoom-Meetings-V.20.2-6-12-2020.docx</B></A>
 </UL>
 
 In the document itself, the blue underlined hyperlinks link to 
@@ -61,17 +60,12 @@ Thanks to many people for their feedback, suggestions and corrections on this do
 <P>
 
 Feel free to take this document, edit it as you wish and pass it on to help others learn how to use Zoom.
-The home page for <B>Introduction to Zoom Meetings</B> is on GitHub where it contains links to the latest version you can download as a Word, PDF or HTML document.<BR>
-<B><A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">
-https://github.com/IntroToZoom/ITZ/blob/master/README.md</A></B>
-
-
 
 <H2>Revision History</H2>
 <UL>
 
 
-<LI>V.20 6/12/2020. This is a major edit for clarity, fixing typos and a few errors.
+<LI>V.20 6/12/2020. This is a major edit for clarity, fixing typos, caption headings, white space, and a few errors.
  
 <LI>V.19.1 6/2/2020. Edited some of the screen shots and captions to reflect changes in the Zoom controls. Updated the Appendix C and D screen shots and captions that describe the Zoom client app and Zoom.com settings. These changed with the recent 5.0.4 version update of Zoom. Added some new articles on using Zoom in Appendix E.
 
@@ -109,8 +103,8 @@ settings in Appendix B and Appendix C.
 
 <Address>
 <I>Revised: June 12, 2020</I><BR>
-Website: <A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A><BR>
-Email: <A HREF="mailto:IntroToZoom@gmail.com">IntroToZoom@gmail.com</A><P>
+Website: <B><A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A></B><BR>
+Email: <B><A HREF="mailto:IntroToZoom@gmail.com">IntroToZoom@gmail.com</A></B><P>
 <img src="icon-beerbuddies10.gif"></img>
 </Address>
 
