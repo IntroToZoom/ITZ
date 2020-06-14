@@ -39,16 +39,18 @@ Support</A> help page. The Zoom home page <B>Resources</B> pulldown menu has add
 The PDF and Web page were saved from the Word docx file.
 <P>
 <UL>
-<LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.20.2-6-12-2020.zip">
-<B>ITZhtml-V.20.2-6-12-2020.zip</B></A>
+
+<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.20.4-6-14-2020.docx">
+<B>Introduction-to-Zoom-Meetings-V.20.4-6-14-2020.docx</B></A>
 <P>
 
-<LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.20.2-6-12-2020.pdf">
-<B>Introduction-to-Zoom-Meetings-V.20.2-6-12-2020.pdf</B></A>
+<LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.20.4-6-14-2020.pdf">
+<B>Introduction-to-Zoom-Meetings-V.20.4-6-14-2020.pdf</B></A>
 <P>
 
-<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.20.2-6-12-2020.docx">
-<B>Introduction-to-Zoom-Meetings-V.20.2-6-12-2020.docx</B></A>
+<LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.20.4-6-14-2020.zip">
+<B>ITZhtml-V.20.4-6-14-2020.zip</B></A>
+<P>
 </UL>
 
 In the document itself, the blue underlined hyperlinks link to 
@@ -64,6 +66,8 @@ Feel free to take this document, edit it as you wish and pass it on to help othe
 <H2>Revision History</H2>
 <UL>
 
+
+<LI>V.20.4 6/14/2020. This is an additional major edit for clarity. It has additional figures and discussion in Section 3.6 Meeting Rooms.
 
 <LI>V.20 6/12/2020. This is a major edit for clarity, fixing typos, caption headings, white space, and a few errors.
  
@@ -102,7 +106,7 @@ settings in Appendix B and Appendix C.
 <address>
 
 <Address>
-<I>Revised: June 12, 2020</I><BR>
+<I>Revised: June 14, 2020</I><BR>
 Website: <B><A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A></B><BR>
 Email: <B><A HREF="mailto:IntroToZoom@gmail.com">IntroToZoom@gmail.com</A></B><P>
 <img src="icon-beerbuddies10.gif"></img>
