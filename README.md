@@ -40,7 +40,7 @@ The PDF and Web page were saved from the Word docx file.
 <P>
 <UL>
 
-<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.20.7-2-2020.docx">
+<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.20.5-7-2-2020.docx">
 <B>Introduction-to-Zoom-Meetings-V.20.5-7-2-2020.docx</B></A>
 <P>
 
