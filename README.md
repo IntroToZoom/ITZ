@@ -40,12 +40,12 @@ The PDF and Web page were saved from the Word docx file.
 <P>
 <UL>
 
-<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.20.7-2-14-2020.docx">
+<LI><B>Download</B> as a Word .docx file: <A HREF="Introduction-to-Zoom-Meetings-V.20.7-2-2020.docx">
 <B>Introduction-to-Zoom-Meetings-V.20.5-7-2-2020.docx</B></A>
 <P>
 
 <LI><B>Download</B> as a PDF file: <A HREF="Introduction-to-Zoom-Meetings-V.20.5-7-2-2020.pdf">
-<B>Introduction-to-Zoom-Meetings-V.20.4-6-14-2020.pdf</B></A>
+<B>Introduction-to-Zoom-Meetings-V.20.5-7-2-2020.pdf</B></A>
 <P>
 
 <LI><B>Download</B> as a Web page as ZIP file: <A HREF="ITZhtml-V.20.5-7-2-2020.zip">
@@ -66,7 +66,10 @@ Feel free to take this document, edit it as you wish and pass it on to help othe
 <H2>Revision History</H2>
 <UL>
 
+<LI>V.20.5 7/3/2020. Fixed link errors in this README.md file. (The other documents are the same).
+
 <LI>V.20.5 7/2/2020. This has some screen figure changes because of Zoom Update 5.1.1. That includes the Zoom.com Settings and the Zoom Client settings.
+
 <LI>V.20.4 6/14/2020. This is an additional major edit for clarity. It has additional figures and discussion in Section 3.6 Meeting Rooms.
 
 <LI>V.20 6/12/2020. This is a major edit for clarity, fixing typos, caption headings, white space, and a few errors.
@@ -106,7 +109,7 @@ settings in Appendix B and Appendix C.
 <address>
 
 <Address>
-<I>Revised: July 2, 2020</I><BR>
+<I>Revised: July 3, 2020</I><BR>
 Website: <B><A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A></B><BR>
 Email: <B><A HREF="mailto:IntroToZoom@gmail.com">IntroToZoom@gmail.com</A></B><P>
 <img src="icon-beerbuddies10.gif"></img>
