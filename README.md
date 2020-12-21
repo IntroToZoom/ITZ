@@ -29,7 +29,7 @@ There are two documents in the IntroToZoom
 This introductory <I>How To</I> document was created to help people navigate and use the <A HREF="https://Zoom.com">Zoom.com</A> virtual meeting software. It does not replace studying the extensive documentation on the Zoom website. 
 <P></P>
 
-The Zoom program lets one user, called the <B>Host</B>, start a meeting and invite other users called the <B>Participants</B> by sending them an email invitation or by directly inviting them through a Zoom contacts list. The person receiving the email clicks on a link to start downloading Zoom and join the meeting. Alternatively, if they have Zoom installed they can enter a Meeting ID (and sometimes a Password), which also found in the email invitation to join a meeting..
+The Zoom program lets one user, called the <B>Host</B>, start a meeting and invite other users called the <B>Participants</B> by sending them an email invitation or by directly inviting them through a Zoom contacts list. The person receiving the email clicks on a link to start downloading Zoom and join the meeting. Alternatively, if they have Zoom installed they can enter a Meeting ID (and sometimes a Password), which is also found in the email invitation to join a meeting..
 
 
 There is extensive documentation on the Zoom.com website under the
@@ -41,7 +41,7 @@ Support</A> help page. The Zoom home page <B>Resources</B> pulldown menu has add
 <A HREF="https://support.zoom.us/hc/en-us/articles/360042982391">Top 20 Zoom resources</A>,
 <A HREF="https://support.zoom.us/hc/en-us/categories/201146643">Webinars and Events</A>,
 <A HREF="https://us04web.zoom.us/events">Zoom Blog</A>,
-<A HREF="https://blog.zoom.us/wordpress/2020/04/27/its-here-5-things-to-know-about-zoom-5-0/">5 things about Zoom 5.0"</A>,
+<A HREF="https://blog.zoom.us/wordpress/2020/04/27/its-here-5-things-to-know-about-zoom-5-0/">5 things about Zoom 5.0</A>,
 <A HREF="https://support.zoom.us/hc/en-us/articles/206175806-Top-Questions?flash_digest=92a63c466c9f4bc8b1ed439f89835ce3893f3ba5">FAQ</A>,
 <A HREF="https://us04web.zoom.us/docs/ent/privacy-and-security.html">Privacy and Security</A>, and
 <A HREF="https://us04web.zoom.us/security">Security Resources</A>.
@@ -63,10 +63,10 @@ The PDF and Web page were saved from the Word docx file.
 </UL>
 
 In the document itself, the blue underlined hyperlinks link to 
-particular documentation on the Zoom web site or on other Web sites. 
+particular documentation on the Zoom Web site or on other Web sites. 
 <P>
 
-<H3>Revision History:Introduction to Zoom</H3>
+<H3>Revision History: Introduction to Zoom</H3>
 <UL>
 
 <LI>V.21.3 12/21/2020.The screen shots and Zoom Settings figures in Appendices B and C are updated as of Zoom version 5.4.6 (Dec 8, 2020).
@@ -84,7 +84,7 @@ See <A HREF="ITZRevisionHistory.md"><B>Full Revision History</B></A>
 
 In the days B.C. (before coronavirus), a group of friends would go downtown to attend an event or lecture. During breaks in the event, they could discuss what was heard. Afterwards they could go out to lunch and talk about the event. In the age of COVID-19 that option is no longer available. 
 
-The pandemic has eliminated some options but has opened new ones. Visual technologies like Zoom, Skype, etc. have given us more options for group interaction, along with YouTube and other free video media for presenting lectures and concerts. Many organizations have switched from live events to provide livestreamed events using high quality video and audio. Often these livestreamed events are saved in Internet-accessible archives.
+The pandemic has eliminated some options but has opened new ones. Visual technologies like Zoom, Skype, etc. have given us more options for group interaction, along with YouTube and other free video media for presenting lectures and concerts. Many organizations have switched from live events to provide live-streamed events using high quality video and audio. Often these live-streamed events are saved in Internet-accessible archives.
 
 This provides an alternative way for a group of friends to attend an event together – a kind of “watch party”. With the availability of these new technologies, they can watch together from around the country or around the world.
 
@@ -105,8 +105,7 @@ The PDF and Web page were saved from the Word docx file.
 <B>COZMhtml-V.8.7-12.21.2020.zip</B></A>
 </UL>
 
-In the document itself, the blue underlined hyperlinks link to 
-particular documentation on the Zoom web site or on other Web sites. 
+In the document itself, the blue underlined hyperlinks link to various Web sites. 
 <P>
 
 
