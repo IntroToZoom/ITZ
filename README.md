@@ -95,14 +95,14 @@ The PDF and Web page were saved from the Word docx file.
 <P>
 <UL>
 
-<LI><B>Download</B> as a Word .docx file: <A HREF="How to create your own Zoom seminar-V.8.7-12.21.2020.docx">
-<B>How to create your own Zoom seminar-V.8.7-12.21.2020.docx</B></A>
+<LI><B>Download</B> as a Word .docx file: <A HREF="How to create your own Zoom seminar-V.8.8-1.7.2021.docx">
+<B>How to create your own Zoom seminar-V.8.8-1.7.2021.docx</B></A>
 
-<LI><B>Download</B> as a PDF file: <A HREF="How to create your own Zoom seminar-V.8.7-12.21.2020.pdf">
-<B>How to create your own Zoom seminar-V.8.7-12.21.2020.pdf</B></A>
+<LI><B>Download</B> as a PDF file: <A HREF="How to create your own Zoom seminar-V.8.8-1.7.2021.pdf">
+<B>How to create your own Zoom seminar-V.8.8-1.7.2021.pdf</B></A>
 
-<LI><B>Download</B> as a Web page as ZIP file: <A HREF="COZMhtml-V.8.7-12.21.2020.zip">
-<B>COZMhtml-V.8.7-12.21.2020.zip</B></A>
+<LI><B>Download</B> as a Web page as ZIP file: <A HREF="COZMhtml-V.8.8-1.7.2021.zip">
+<B>COZMhtml-V.8.8-1.7.2021.zip</B></A>
 </UL>
 
 In the document itself, the blue underlined hyperlinks link to various Web sites. 
@@ -111,6 +111,8 @@ In the document itself, the blue underlined hyperlinks link to various Web sites
 
 <H3>Revision History: Create Your Own Zoom Meeting</H3>
 <UL>
+
+<LI>V.8.8-1.7.2021. Clarified the prefered use of Chat in III. sessions so as to cause minimum disruption since speaking at the same time as the event speaker is difficult to hear.
 
 <LI>V.8.7-12.21.2020. The first release of the document.
 
@@ -131,7 +133,7 @@ Feel free to take these documents, edit them as you wish and pass it on to help 
 <address>
 
 <Address>
-<I>Revised: December 21, 2020</I><BR>
+<I>Revised: January 7, 2021</I><BR>
 Website: <B><A HREF="https://github.com/IntroToZoom/ITZ/blob/master/README.md">https://github.com/IntroToZoom/ITZ/blob/master/README.md</A></B><BR>
 Email: <B><A HREF="mailto:IntroToZoom@gmail.com">IntroToZoom@gmail.com</A></B><P>
 <img src="icon-beerbuddies10.gif"></img>
