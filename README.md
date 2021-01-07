@@ -95,11 +95,11 @@ The PDF and Web page were saved from the Word docx file.
 <P>
 <UL>
 
-<LI><B>Download</B> as a Word .docx file: <A HREF="How to create your own Zoom seminar-V.8.8-1.7.2021.docx">
-<B>How to create your own Zoom seminar-V.8.8-1.7.2021.docx</B></A>
+<LI><B>Download</B> as a Word .docx file: <A HREF="How to create your own Zoom seminar-V.8.8-1-7-2021.docx">
+<B>How to create your own Zoom seminar-V.8.8-1-7-2021.docx</B></A>
 
-<LI><B>Download</B> as a PDF file: <A HREF="How to create your own Zoom seminar-V.8.8-1.7.2021.pdf">
-<B>How to create your own Zoom seminar-V.8.8-1.7.2021.pdf</B></A>
+<LI><B>Download</B> as a PDF file: <A HREF="How to create your own Zoom seminar-V.8.8-1-7-2021.pdf">
+<B>How to create your own Zoom seminar-V.8.8-1-7-2021.pdf</B></A>
 
 <LI><B>Download</B> as a Web page as ZIP file: <A HREF="COZMhtml-V.8.8-1.7.2021.zip">
 <B>COZMhtml-V.8.8-1.7.2021.zip</B></A>
